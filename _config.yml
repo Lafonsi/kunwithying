@@ -100,5 +100,5 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:Lafonsi/kunwithying.git
-  branch: master
+  branch: hexo
 
